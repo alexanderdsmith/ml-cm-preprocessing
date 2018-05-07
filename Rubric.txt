@@ -1,0 +1,90 @@
+Allele	Amino acid	"mutation, call for, produces"	determine different	code for
+Allele	Chromosome	"contain, expressed on,all make up"	 on a	"section on a, locus on a, found on, located on, are part of"
+Allele	DNA	"make up, found in, determine, code for"	"contains,codes that exist within, refer to specific, part of,  has a certain"	composed of
+Allele	Gene	"codes for, combine, comprise, contained in, determine, in a, located on, makes up, within, which are part of, stored in, at same loci on, form,is the information in a, is half of a , expressed in , expresses a , expression of a, consist of "	"mutation of, type of a, express different phenotype of, illustrate variation in, "	"version of a, alternate form of a, variation of a, different version of a form of a"
+Allele	Genotype	"code for, mutation,  can be"	"combination on chromosomes, expressed as, gives different version of"	determine
+Allele	Mutation	can be		"formed by, results from, caused by"
+Allele	Nucleotide sequence	"link to form, coded by, code for"	"arranged in, determined by,  has"	"are specific, segments of, variation in, has unique, originates from mutation in,composed of,made of, contain"
+Allele	Phenotype	"has a, may be, show in, creates, describes, represents, represented by"	"causes, changes, corresponds to, contribute to, codes for, determines, gives different version of, produces variation, results in, expresses, impacts, when present in 2 produces"	"express traits in, epxress traits through, expressed as"
+Allele	Protein	"contain, determine mutation for, make up, parts of, which build, variations in"	" creates, decides types of, determine a, forms, make,  results, translated into"	codes for
+Amino acid	Allele	" mutation, mutate to form, variations make up, determine, produced by"		coded by
+Amino acid	DNA	results from		
+Amino acid	Gene	"which determines, comprise"		 coded for by 
+Amino acid	Mutation		changes based on 	
+Amino acid	Nucleotide sequence	scan for	coded in 3s by	
+Amino acid	Protein	"codes for, result in,  decides,determines, correspond, made of"	 makes	"base unit of a, link to form, make up, building blocks for"
+Chromosome	Allele	"which form, make up, mutates, mutates to form"	"has,  composed of"	"coding section is,contains"
+Chromosome	Amino acid	codes for		
+Chromosome	DNA	"constructed by, located in, is part of, stores,carries, are a collection of, tightly wound to form"	"  is a sequence of, consisting ,  organize, are coiled and contain"	"made of 2 strands, composed of, made up of,contains,is tightly condensed, contains long strands of"
+Chromosome	Gene	" codes for, composed of, consists of, determines, makes up, made up of, which are"	" has the, holds, includes"	"coding section is, locus is, contains "
+Chromosome	Genotype	" carries, make up, determine"		
+Chromosome	Mutation	undergoes		
+Chromosome	Nucleotide sequence	"make up, organized into"	"are made of, have"	contains
+Chromosome	Phenotype	"determine, expresses, coding for multiple, code for"		
+Chromosome	Protein	"consists of, decode for, translated into, code for"		
+DNA	Amino acid	sequences of		 codes for
+DNA	Allele	"codes for, composed of, made of, characterizes"	"composes, comprises, forms, mutate to form, segment is a,contain"	" coding section is, which make up"
+DNA	Chromosome	"made of, replicate to form, single strand is, breaks down into, contains"	" builds up, comprises, is a component of, composes, contained within, stored within, forms, found in, located on, makes up a"	" is organized in, two strands is, two strands make, coiled into, coils around histones to form, condensed into"
+DNA	Gene	"codes for, consists of, express,made up of, mutation,a segment of, variation, create, has, composed of, come together to form,  comes from, produces "	"parts of, compose, segment is a,  contains, has, has regions called"	"	 makes up, coding section is, is organized in, sequences are, has specific coding sections called"""
+DNA	Genotype		causes	
+DNA	Mutation		"can go through, changed by"	
+DNA	Nucleotide sequence	" constructs, makes up, mutation, found in, located in"	"which forms, is in, formed by, defined by, determined by"	" composed of, consists of, contains, made of, arranged in"
+DNA	Phenotype	" expresses, codes for, shows up in"	"impacts, causes, determine, influences"	
+DNA	Protein	"make up, mutates to form different, create, contains, made up of"	determine	"has genes that code for,codes for"
+DNA	mRNA	"becomes, replicated by, synthesizes, goes into, transfers around cell as, transported by, assemble, translate to, works with, contains, converts into, are copied by, copies itself to make, is made by, make, is transmitted through, turns into, is read by, split to single strand to form, is transformed into RNA through transcription,is used to construct, is used to form, is used in the making of, is complimentary to"	"codes for, controls the production of, helps to encode messages to the, leads to the creation of,provides coding info to, provides a basis for creating strands of, transcribes, is transcribed by, transcription is used to produce, uses its code to create, has different structure than,is copied into, is copied to create,sperates and is copied into a strand of, transcripted into"	"serves as a template for, is transcribed into"""
+Gene	Allele	"codes for various, comprised of, contain, determines,expressed by  variation in, expressed by, formed, have sequence for,makes up,are presented using, produces, represents variation in, are similar, types of,  also known as an, consists of, expresses, is part of, replicates,alter between,  produce different"	"have a specific, mutate, mutates into, mutate to create,  varies depending on,  has, have many, mutated into new, mutation"	" different forms are, diff versions are, with different base sequences are, variations are called,have various versions called, mutation results in different "
+Gene	Amino acid			code for
+Gene	Chromosome	"contain, comprised of, many can form, is an expression of, is made of, make up, coil to form"	"on a, comprising, is stored in"	"locus on a, coding section on a, found on, located on,  is a part of"""
+Gene	DNA	"contained in, construct the, combine to form, located on, make up, stored in, codes for, group to form, comes from, composes, is an expression of, makes up,contain information from,determine, determined by,collection of, express, are specific commands within, are found in"	"contains, is part of,  is section of, representative part of,made by, is a section of, is a segment of, is a sequence of,  is a unit of"	"coding section of, is composed of, is made up of "
+Gene	Genotype	code for	"expressed as,make up"	determines
+Gene	Mutation	" contain, have"		
+Gene	Nucleotide sequence	" make up, code for"	" arranged in, determined by,  varies in"	" composed of, consists of, made up of, segments of,which are, contain"
+Gene	Phenotype	" comprised of, mutation creating, has a, may be, contains"	" influence, contribute to, determine, creating, produces, expresses, codes for, results in"	"expressed in, expressed through"
+Gene	Protein	" represent, makes up, parts of, absorbs, contains, information comes in the form of a, is made from, are made up of, need,  sends info through, are sequences of,  expresses a, transcribed to"	" determines, makes, produces, are blueprints to make, codes into, controls synthesis of specific, could affect the usefulness of, could affect the activity of, determines type of, are turned on by, are turned off by, translated to, expressed by"	"codes for, carries the DNA sequences that lead to creating a"
+Gene	mRNA	"create, compose, work together, are translated into, read by,determines, uses, utilizes for carrying information, copied by,are transcribed then translated into"	"determines sequence,codes for,transcribed by,is copied to create, is copied into"	
+Genotype	Allele	"determine, coded by"	can have	" diff versions from, determined by,contains of, consists of "
+Genotype	Chromosome	 determined by combinations of 		
+Genotype	DNA	" determines one's,determined by "		
+Genotype	Gene	expression of 	 composed by	 determined by
+Genotype	Phenotype	"means, can be"	"shown in,  produces, leads to, codes for"	"expressed as,determines"
+Genotype	Protein		"code for, determine, translates to"	
+mRNA	Amino acid	"makes, synthesizes"	" determines the sequences of,  translation"	"codes for, brings together correct sequences of,encodes"
+mRNA	DNA	"synthesize, carries, codes for, copies , help in the copying of, is translated from, is transported with help from, translates"	"based off the sequences of, carries info, from, is coded from, comes from, is made from, is complementary to, gets messages through, is made by another strand of, sequence matches that of, takes information from, transcribes"	is transcribed from
+mRNA	Gene	"contains, forms"	Transcribes	
+mRNA	Nucleotide sequence			"composed of , made up of"
+mRNA	Protein	"make up, converts to, makes, RNA carries DNA to protein, creates, directs the, makes, synthesizes, is made of different, is replicated into, is transcribed into, transfers, transports , carries information to"	"determines which, has the amino acid sequence for, helps make,helps translate, sends the genetic info to ribosomes to make, sends the messages to synthesize, transports information for, carries information to make,translates into, helps to form,used in process of forming the protein, intiates the translation of,sends information to make, transfers information to make"	"translated into,codes for, encodes,  codes for making of, translated to produce, is translated into amino acids that make up a, is translated by combining with tRNA and rRNA to build, provides template for, enters translation to produce"
+Mutation	Allele	"corresponds to, changes traits shown in, codes for, is reflected in, occurs at"	"  gives different, causes different, changes, causes variation in, creates variation in, affects"	"causes formation, creates,forms,causes new, results in"
+Mutation	Amino acid		"creates new sequence of, changes"	
+Mutation	DNA	"reflected, codes for"	occurs in	" alters, changes, causes variation in"
+Mutation	Gene	"causes new, corresponds to, results in, occurs at,make up"	"gives different, changes, alters, appears in"	"causes different nucleo sequence in, causes variation in"
+Mutation	Genotype	" can bring in different, can change"		
+Mutation	Nucleotide sequence	"if, that gives a, codes for, are different because"	"occurs in, acted on, rearrange, affects, acts on,in the,mistake can lead to changes in"	"alters, changes, causes variation in, creates variation in"
+Mutation	Phenotype	"leads to, gives a"	" can alter, can cause variation in, changes, affects, results in different"	
+Mutation	Protein	carries a unique	"cause differences in, changes"	
+Nucleotide sequence	Allele	"codes for, causes mutation for,continued in, is called, expresses, create ,non-mutation, mutation within certain"	"determine,mutation, forming different, make up, corresponds to"	" mutation in sequence forms,mutation to form, mutations cause"
+Nucleotide sequence	Amino acid	"make up, mutates to form diff"	"specify, denote, codes for"	
+Nucleotide sequence	Chromosome	made up of	"makes up, forms"	
+Nucleotide sequence	DNA	" in 3s codes for, codons group to make, construct, links together, makes, change, subunit of"	"consists of, part of, in, determines, string together to form"	" make up,composes, forms"
+Nucleotide sequence	Gene	"codes for, code in 3s for specific, mutates to form, represented by, contain"	"determines, forms"	"coding section is a, make up, comprises"
+Nucleotide sequence	Genotype	 mutation leading to		
+Nucleotide sequence	Mutation		"changes create, error creates, goes through, mistake in replication, which undergo causes"	"change in base pair is, vary because, are different because"
+Nucleotide sequence	Phenotype	results in	produces	
+Nucleotide sequence	Protein	"expression of the, determine shape and function, link to form, make up"	"create, leads to, makes"	" codes for, transcribed and translated into"
+Phenotype	Allele	"have, coded by, part of, composed of"	"varies depending on, express, determined by, changed by, decided by the combination of"	 expression of
+Phenotype	Amino acid	 determined by		
+Phenotype	Chromosome	" is replicated, expressed through"		
+Phenotype	DNA	" coded by, expression of"	" impacted by, determined by"	
+Phenotype	Gene		"influenced by, produced by, coded by"	 expression of
+Phenotype	Genotype	"determine, results in,if"		expression of
+Phenotype	Mutation	gives a		
+Phenotype	Nucleotide sequence	mutates to diff	 results from variation in	
+Phenotype	Protein	expressed as	"created by, produced by, coded by,expresses"	"expression of, determined by"
+Protein	Allele	"results in, contributes, exhibits, determines, produce, codes for, distinguish between, made of, create, contain,helps pack"	"determined by, formed by, variations because, "	"coded by,  variations coded for by"
+Protein	Amino acid	"coded by, make up, linked"		"made of, built from"
+Protein	Chromosome		contained within	
+Protein	DNA	"make up, form to make, found in, part of"		"coded by,  coded by genes on"
+Protein	Gene	"make up, distinguish between, code for, that compose, part of, determine,control "	"determined by, produced by, , expresses,expressed from a specific, translation of"	 coded by
+Protein	Genotype	decide	"coded by, reflect, translation of"	
+Protein	Mutation	 results in		
+Protein	Nucleotide sequence	"code for, makes up"		coded by specific
+Protein	Phenotype	"exhibit a certain, defines, build up, have variations of, makes up, assembles, characterizes "	"displays, express, expresses, codes for,  produces, shows, creates, distinguishes, demonstrate, function as, regulates,  combine to form, represents, expressed as, expressed through,controls expression of, arrangement determines, contribute to the expression of"	"Determines, influences, results in, can effect the"
